@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Chupssss/FlexCRM-Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/EgorKanatov/FlexCRM_Frontend.git
